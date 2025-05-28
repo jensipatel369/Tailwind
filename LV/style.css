@@ -1,13 +1,6 @@
 *{
     font-family: sans-serif;
 }
-/* @font-face{
-  font-family: "Name";
-  src: url(./OpenSans-Light.ttf);
-}
-.name{
-  font-family: "Name";
-} */
 .hero{
     background-image: url(./img/hero.jpg);
     background-repeat: no-repeat;
